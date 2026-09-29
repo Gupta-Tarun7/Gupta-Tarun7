@@ -19,7 +19,7 @@ I am a **Computer Science and Engineering undergraduate at the Indian Institute 
 
 My interests include **Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI**.
 
-I enjoy building end-to-end AI applications, from **data processing and model training to API development, AI integration, containerization, and cloud deployment**.
+I enjoy building end-to-end AI applications, from **data processing and model training to API development, AI integration**.
 
 * 🎓 B.Tech CSE — **IIIT Una**
 * 📊 Current CGPA — **8.9**
