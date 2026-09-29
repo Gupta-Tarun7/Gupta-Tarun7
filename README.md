@@ -45,7 +45,6 @@ An end-to-end deep learning application for classifying **22 dermatological cond
 * 🧠 **EfficientNetB5** transfer learning
 * 🔄 **8-pass Test-Time Augmentation (TTA)**
 * 🔍 **Grad-CAM** for model interpretability
-* ⚡ **<2s inference latency**
 * 📦 **1.2GB+ model weights** managed using Git LFS
 
 ### Technical Implementation
